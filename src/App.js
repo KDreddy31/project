@@ -152,7 +152,7 @@ function Home({ products }) {
 
   return (
     <div>
-      <h1>MAJELELLO.COM</h1>
+      <h1>BUYANYTHING.com</h1>
       <div class='rbord'>
       <div className='search-bar'>
         <input
